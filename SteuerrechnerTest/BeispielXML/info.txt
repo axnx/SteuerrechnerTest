@@ -1,0 +1,4 @@
+FALSCSH C:\Program Files (x86)\Java\jdk1.8.0_92\bin>xjc -d C:\Temp -p packg C:\Users\User\workspace\Steuerrechner\BeispielXML\example.xsd
+
+
+OK C:\Program Files (x86)\Java\jdk1.8.0_92\bin>xjc -d C:\Temp -p packg C:\Users\User\workspace\Steuerrechner\BeispielXML\example3.xml

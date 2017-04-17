@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <lohnsteuer jahr="2016">
+  <eingaben>
+    <eingabe name="STKL" value="1" status="ok" />
+    <eingabe name="LZZ" value="1" status="ok" />
+    <eingabe name="RE4" value="2500000" status="ok" />
+  </eingaben>
+  <ausgaben>
+    <ausgabe name="BK" value="0" type="STANDARD" />
+    <ausgabe name="BKS" value="0" type="STANDARD" />
+    <ausgabe name="BKV" value="0" type="STANDARD" />
+    <ausgabe name="LSTLZZ" value="267400" type="STANDARD" />
+    <ausgabe name="SOLZLZZ" value="14707" type="STANDARD" />
+    <ausgabe name="SOLZS" value="0" type="STANDARD" />
+    <ausgabe name="SOLZV" value="0" type="STANDARD" />
+    <ausgabe name="STS" value="0" type="STANDARD" />
+    <ausgabe name="STV" value="0" type="STANDARD" />
+    <ausgabe name="VKVLZZ" value="0" type="STANDARD" />
+    <ausgabe name="VKVSONST" value="0" type="STANDARD" />
+    <ausgabe name="VFRB" value="100000" type="DBA" />
+    <ausgabe name="VFRBS1" value="0" type="DBA" />
+    <ausgabe name="VFRBS2" value="0" type="DBA" />
+    <ausgabe name="WVFRB" value="1177200" type="DBA" />
+    <ausgabe name="WVFRBO" value="0" type="DBA" />
+    <ausgabe name="WVFRBM" value="0" type="DBA" />
+  </ausgaben>
+</lohnsteuer>
